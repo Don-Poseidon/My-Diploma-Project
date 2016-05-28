@@ -1,0 +1,49 @@
+﻿Построение начато 23.05.2016 13:16:47.
+     1>Проект "d:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\MyDocSystem\MyDocSystem.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /MP /O2 /Ot /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /D _ITERATOR_DEBUG_LEVEL=0 /D _CRT_SECURE_NO_WARNINGS /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp Balas.cpp Core.cpp Credit_Own.cpp "ExcelFormat Files\BasicExcel.cpp" "ExcelFormat Files\ExcelFormat.cpp" Forms_Instances.cpp Input_Data.cpp mfmc.cpp MyDocSystem.cpp Output_Data.cpp
+         AssemblyInfo.cpp
+         Balas.cpp
+         Credit_Own.cpp
+         Core.cpp
+         BasicExcel.cpp
+         ExcelFormat.cpp
+         Forms_Instances.cpp
+         Input_Data.cpp
+         mfmc.cpp
+         MyDocSystem.cpp
+     1>Core.cpp(198): warning C4244: инициализация: преобразование "time_t" в "const int", возможна потеря данных (Core.cpp)
+     1>Core.cpp(209): warning C4244: =: преобразование "int64" в "long double", возможна потеря данных (Core.cpp)
+     1>Credit_Own.cpp(29): warning C4244: =: преобразование "lf" в "int64", возможна потеря данных (Credit_Own.cpp)
+     1>Core.cpp(256): warning C4244: =: преобразование "int64" в "long double", возможна потеря данных (Core.cpp)
+     1>Core.cpp(266): warning C4244: =: преобразование "int64" в "long double", возможна потеря данных (Core.cpp)
+     1>mfmc.cpp(139): warning C4244: аргумент: преобразование "lf" в "int64", возможна потеря данных (mfmc.cpp)
+     1>mfmc.cpp(166): warning C4244: -=: преобразование "const long double" в "int64", возможна потеря данных (mfmc.cpp)
+     1>mfmc.cpp(212): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных (mfmc.cpp)
+         Output_Data.cpp
+     1>Output_Data.cpp(45): warning C4244: +=: преобразование "long double" в "__int64", возможна потеря данных (Output_Data.cpp)
+     1>Output_Data.cpp(46): warning C4244: +=: преобразование "long double" в "__int64", возможна потеря данных (Output_Data.cpp)
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /MP /O2 /Ot /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /D _ITERATOR_DEBUG_LEVEL=0 /D _CRT_SECURE_NO_WARNINGS /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Wolf\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\Release\MyDocSystem.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Init.xls /ASSEMBLYRESOURCE:Release\MyDocSystem.frm_Console.resources /ASSEMBLYRESOURCE:Release\MyDocSystem.frm_Main.resources /ASSEMBLYRESOURCE:Release\MyDocSystem.frm_SelectSheet.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\Release\MyDocSystem.pdb" /SUBSYSTEM:WINDOWS /STACK:"10000000" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\app.res
+         Release\AssemblyInfo.obj
+         Release\Balas.obj
+         Release\Core.obj
+         Release\Credit_Own.obj
+         Release\BasicExcel.obj
+         Release\ExcelFormat.obj
+         Release\Forms_Instances.obj
+         Release\Input_Data.obj
+         Release\mfmc.obj
+         Release\MyDocSystem.obj
+         Release\Output_Data.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         MyDocSystem.vcxproj -> D:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\Release\MyDocSystem.exe
+     1>Построение проекта "d:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\MyDocSystem\MyDocSystem.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:11.91

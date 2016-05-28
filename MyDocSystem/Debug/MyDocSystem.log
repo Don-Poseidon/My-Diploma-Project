@@ -1,0 +1,32 @@
+﻿Построение начато 22.05.2016 19:56:34.
+     1>Проект "d:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\MyDocSystem\MyDocSystem.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /D _ITERATOR_DEBUG_LEVEL=0 /D _CRT_SECURE_NO_WARNINGS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Core.cpp
+         Core.cpp
+     1>Core.cpp(198): warning C4244: инициализация: преобразование "time_t" в "const int", возможна потеря данных
+     1>Core.cpp(209): warning C4244: =: преобразование "int64" в "long double", возможна потеря данных
+     1>Core.cpp(256): warning C4244: =: преобразование "int64" в "long double", возможна потеря данных
+     1>Core.cpp(266): warning C4244: =: преобразование "int64" в "long double", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\Debug\MyDocSystem.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Init.xls /ASSEMBLYRESOURCE:Debug\MyDocSystem.frm_Console.resources /ASSEMBLYRESOURCE:Debug\MyDocSystem.frm_Main.resources /ASSEMBLYRESOURCE:Debug\MyDocSystem.frm_SelectSheet.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\Debug\MyDocSystem.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /STACK:"10000000" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Balas.obj
+         Debug\Core.obj
+         Debug\Credit_Own.obj
+         Debug\BasicExcel.obj
+         Debug\ExcelFormat.obj
+         Debug\Forms_Instances.obj
+         Debug\frm_Console.obj
+         Debug\frm_Main.obj
+         Debug\frm_SelectSheet.obj
+         Debug\Input_Data.obj
+         Debug\mfmc.obj
+         Debug\MyDocSystem.obj
+         Debug\Output_Data.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         MyDocSystem.vcxproj -> D:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\Debug\MyDocSystem.exe
+     1>Построение проекта "d:\Vlad\Доки (мисис)\Diploma and stuff\Описание системы принятия решений\Software\2-nd attempt\MyDocSystem\MyDocSystem\MyDocSystem.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.99

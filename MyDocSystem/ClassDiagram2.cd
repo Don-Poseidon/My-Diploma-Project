@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="My_Classes::Balas" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Balas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_Classes::Core" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAABCoCxggBciEgAAAAMKQAABIEAAQAMAgACAQRo=</HashCode>
+      <FileName>Core.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_Classes::Credit_Own" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAgkAQgBAAAAQAEAAAAEAIAAAAACAAAAAAGE=</HashCode>
+      <FileName>Credit_Own.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_Classes::Input_Data" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAAAAEAAACAQABgABAAAAAABAAAIKAAAEAAA=</HashCode>
+      <FileName>Input_Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_Classes::mfmc" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIEAAAAAAAAAAAAACAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>mfmc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_Classes::Output_Data" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAIAAAAIACAAIQAAAAgAABADAAABAAA=</HashCode>
+      <FileName>Output_Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YCompoundFiles::Block" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAEBAAMgAoAAAAAAAAAAgCAABAEAIAARAAAGAAAQ=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YCompoundFiles::CompoundFile" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAECAEgAAgBdALQAEEEAAmIAEIwAEAAIwgACGCzBAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YExcel::Record" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAQAAAEEAAAABAAAAAhEAAACAAAAAAAAAEABAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YExcel::Workbook" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAggAAAEAIAAAAAAAAgAAAADAAIAAIEAAEQCAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YExcel::Worksheet" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQAAEAIAAIAAAAAhAAAADAAAAAAAgAEBAAE=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YExcel::BasicExcel" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIgIBMCIkAACBAAAQAAAAgCAAAAAgAAJhISAGAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YExcel::BasicExcelWorksheet" Collapsed="true">
+    <Position X="4.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAIAAAAgAQARAAACCCgBAABgQEAAAAAgEgAg=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YExcel::BasicExcelCell" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAuAAEIgRGAQBIBgAEBAJBAAAIAAIAgABQCAAAQIECA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_GUID" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAACAQAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TIME_T" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WinCompFiles::CompoundFile" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAYABAAAAAAAAIAAEQAEAAAAAACACAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YCompoundFiles::LittleEndian" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAgAAAAAQAAAAAAAAEAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RefCount::RefCnt" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RefCount::SmartPtr&lt;T&gt;" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAIEAAAAAgAAAAAAAAAEAAAgAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExcelFormat::CellFormat" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GQRAkUARAABAEAAQAAAAQBBAAIACIQ9EAAgFAAGUIgA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExcelFormat::ExcelFont" Collapsed="true">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABYAAYAQCAAAAAAggAAAAAAAEQAAAgIAAEBAAgAAQ=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExcelFormat::XLSFormatManager" Collapsed="true">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAQAAAAAAAAAAIAAIBAAAAAAAKAAEAAAABAAAAgA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YExcel::CODE" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YExcel::BOF" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAACIAAAAQBAAgAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YExcel::YEOF" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YExcel::SmallString" Collapsed="true">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgFgAACAAAAAAgAAAACAAAAQAgAAEAIAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YExcel::LargeString" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEgFoAACAAAAAAgAAAACIAACAAgAAEAIAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="YExcel::EXCEPTION_YEOF" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="uint" Collapsed="true">
+    <Position X="5.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Balas.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="int64" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Balas.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lf" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Balas.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="BYTE" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="WORD" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SHORT" Collapsed="true">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="USHORT" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DWORD" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LONG" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ULONG" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="OFFSET" Collapsed="true">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SECT" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FSINDEX" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FSOFFSET" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DFSIGNATURE" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+    <AliasOfLine Type="ULONG" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="5.062" />
+        <Point X="3.25" Y="5.75" />
+      </Path>
+    </AliasOfLine>
+  </Typedef>
+  <Typedef Name="DFPROPTYPE" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CBF_SID" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GUID" Collapsed="true">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CLSID" Collapsed="true">
+    <Position X="7.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="STGTY" Collapsed="true">
+    <Position X="13.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAAAIAAEAg=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DECOLOR" Collapsed="true">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WinCompFiles::CF_RESULT" Collapsed="true">
+    <Position X="13.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAEAABA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="YCompoundFiles::__unnamed_enum_000f_1" Collapsed="true">
+    <Position X="9.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAACAABAAAAAACAAAAIAAAAAAAAAAEAABA=</HashCode>
+      <FileName>ExcelFormat Files\BasicExcel.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_FONT_OPTIONS" Collapsed="true">
+    <Position X="13.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAoCEAAAAAAEAAgAABAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_ESCAPEMENT" Collapsed="true">
+    <Position X="9.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAAEAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_UNDERLINE_FLAGS" Collapsed="true">
+    <Position X="11.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAABAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_FONT_FAMILY" Collapsed="true">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAAAAAAAAgAAEAAAAAAAAAAAAAAEAAAAAAQAAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::XF_USED_ATTRIB" Collapsed="true">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAEAAAAAAAAAAEAAAGABAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_ALIGNMENT" Collapsed="true">
+    <Position X="13.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAABAWgAAAIAgBAAAAAAAAACAAEAAAIAARAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_TEXT_PROP_FLAGS" Collapsed="true">
+    <Position X="9.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAIAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_LS" Collapsed="true">
+    <Position X="15" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAIAgAAKIAEAAAgAAABAAgQAgAAQA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::BORDERLINE_FLAGS" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::COLOR1_LS" Collapsed="true">
+    <Position X="15" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAEAAAAAAAAAIBAABAAAAIAAAgEQCAAAAACCQA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::COLOR1_PAT" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAAMg/AAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ExcelFormat::EXCEL_COLORS" Collapsed="true">
+    <Position X="15" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAACAAACAACAAAAIAAAAAAAAAgAoAA=</HashCode>
+      <FileName>ExcelFormat Files\ExcelFormat.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
